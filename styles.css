@@ -1,3 +1,32 @@
 body {
     background-color: beige;
 }
+h1 {
+    text-align: center;
+    margin: 0px auto;
+    display; block;
+    
+}
+h1:hover {
+  background-color:coral
+}
+.logo {
+  float: left;
+  width: 5px
+  height: 10px;
+  margin-right: 5px;
+}
+.navbar {
+    display: flex;
+    justify-content:space-evenly;
+    background-color:lightcoral;
+    margin: 0px auto;
+    }
+
+.contact {
+    text-align: right;
+}
+.copyright {
+    text-align: left;
+  
+}
